@@ -5,3 +5,4 @@ display current directory contents including hidden files using the long format
 display current directory file digits only
 script that creates a directory in another directory
 move file betty to another directory
+delete file betty
