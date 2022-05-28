@@ -12,3 +12,4 @@ script that lists all files
 script that prints type of file
 create a symbolic link
 script that copies all html files
+... script that moves all file beginning with an uppercase letter to directory
