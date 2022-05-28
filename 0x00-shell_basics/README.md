@@ -10,3 +10,4 @@ delete directory my_first_directory
 script to change working directory to previous one
 script that lists all files
 script that prints type of file
+create a symbolic link
