@@ -11,3 +11,4 @@ script to change working directory to previous one
 script that lists all files
 script that prints type of file
 create a symbolic link
+script that copies all html files
