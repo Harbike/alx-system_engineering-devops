@@ -16,3 +16,4 @@ script that copies all html files
 .. script that delete all files in the current working directory that ends with character ~
 ..script that creates directories
 ..command that lists all the files and directories in current directory and separated by commas
+..magic file that can be used with command file to detect school data file
