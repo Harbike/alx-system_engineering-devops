@@ -7,3 +7,4 @@ script that creates a directory in another directory
 move file betty to another directory
 delete file betty
 delete directory my_first_directory
+script to change working directory to previous one
