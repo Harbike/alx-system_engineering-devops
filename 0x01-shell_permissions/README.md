@@ -4,3 +4,4 @@ changing user to Betty
 :script that changes the owner of file
 : script that creates an empty file
 : script that adds execute permission to the owner of the file
+: script for MULTIPLE PERMISSIONS
