@@ -10,3 +10,4 @@ changing user to Betty
 : script that sets permission to give only other users all access and restrict both owner and group
 : scrip that gives all access to owner, read and execute only to group,write and execute only to other users
 : script to mirror permissions
+: script that creates a directory with permissions in the working directory
