@@ -7,3 +7,4 @@ changing user to Betty
 : script for MULTIPLE PERMISSIONS
 : script that adds execute permission to the owner and the group owner, and read permission to other users to a file
 : script that adds execution permission to the owner, the group and the other users to a file
+: script that sets permission to give only other users all access and restrict both owner and group
