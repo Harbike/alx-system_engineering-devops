@@ -14,3 +14,4 @@ changing user to Betty
 : script that changes the group owner of a file
 : script that changes the owner and group owner to files and directories
 : script that changes the owner and group owner of _hello to vincent and staff respectively
+: script that changes the owner of file to betty only if it is initially owned by user guillaume
