@@ -9,3 +9,4 @@ script to print hello world
 9: Script that duplicates the last line of a file
 10: script that deletes regular files and subfolders from the pwd with extension .js
 11: Script that counts the number of directories and subdirectories in the current directory including the hidden directories
+12: Script that displays the 10 newest files in the current directory sorted from newest to oldest
