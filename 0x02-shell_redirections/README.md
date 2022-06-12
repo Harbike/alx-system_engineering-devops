@@ -17,3 +17,4 @@ script to print hello world
 17: Display all the lines in the file /etc/passwd that do not contain the pattern "bin"
 18: Displays all lines of the filee /etc/ssh/sshd_config starting with the letter including capital letters
  19: Replace all characters A and c from input to Z and e respectively
+21: Script that reverse its input
