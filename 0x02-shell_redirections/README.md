@@ -7,3 +7,4 @@ script to print hello world
 7: script that creates a file name to include escape characters
 8: script that writes into a file the result of command ls -la
 9: Script that duplicates the last line of a file
+10: script that deletes regular files and subfolders from the pwd with extension .js
