@@ -3,3 +3,4 @@ script to print hello world
 3: script to display the content of /etc/passwd and /etc/hosts
 4: Display last 10lines
 5: Display the first ten lines
+6: Script that displays the third line of a file
