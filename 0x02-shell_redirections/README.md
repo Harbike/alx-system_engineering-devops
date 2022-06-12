@@ -4,3 +4,5 @@ script to print hello world
 4: Display last 10lines
 5: Display the first ten lines
 6: Script that displays the third line of a file
+7: script that creates a file name to include escape characters
+8: script that writes into a file the result of command ls -la
